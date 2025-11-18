@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working university projects and other projects that get from clients<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently a software engineer undergraduate in SLIIT<br>💬 Ask me anything about that related to software developing <br>⚡ Fun fact
+👋 I'm a second-year Software Engineering undergraduate at SLIIT, passionate about designing and developing scalable, secure, and user-friendly software solutions.
+
+🔧 I'm currently sharpening my skills in Full-Stack Development and DevOps practices, including AWS, Docker, Kubernetes, and Linux-based systems. My focus is to blend strong programming fundamentals with cloud-native technologies to build reliable and modern applications.
+
+💡 I believe in continuous learning, hands-on practice, and teamwork. Whether it's writing clean code, deploying applications using CI/CD pipelines, or collaborating in agile teams, I'm always ready to contribute and grow.
+
+💼 Currently exploring:
+
+Full-Stack Web Development (React, Node.js, Java)
+
+DevOps Tools (AWS, Docker, Kubernetes, GitHub Actions)
+
+Linux System Administration
+
+Software Architecture & Testing
 
 
 ## 🌐 Socials:
