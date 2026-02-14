@@ -1,45 +1,206 @@
-# 💫 About Me:
-👋 I'm a second-year Software Engineering undergraduate at SLIIT, passionate about designing and developing scalable, secure, and user-friendly software solutions.
+<!-- =========================================================
+  ADVANCED FUTURISTIC GITHUB PROFILE README (HTML)
+  User: HarithaGeemal | Name: Harithe Geemal
+  Paste into: README.md (Profile Repo: HarithaGeemal/HarithaGeemal)
+========================================================= -->
 
-🔧 I'm currently sharpening my skills in Full-Stack Development and DevOps practices, including AWS, Docker, Kubernetes, and Linux-based systems. My focus is to blend strong programming fundamentals with cloud-native technologies to build reliable and modern applications.
+<div align="center">
 
-💡 I believe in continuous learning, hands-on practice, and teamwork. Whether it's writing clean code, deploying applications using CI/CD pipelines, or collaborating in agile teams, I'm always ready to contribute and grow.
+  <!-- Neon / Cyber Typing Header -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&width=920&lines=Hi+%F0%9F%91%8B+I'm+Harithe+Geemal;Full-Stack+Developer+%7C+DevOps+Explorer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+Scalable%2C+Secure%2C+Modern+Apps;Engineering+the+future%2C+one+commit+at+a+time"
+    alt="Typing SVG"
+  />
 
-💼 Currently exploring:
+  <br/>
+  <br/>
 
-Full-Stack Web Development (React, Node.js, Java)
+  <!-- Status Badges -->
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00f7ff?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FOCUS-CLOUD%20%7C%20DEVOPS%20%7C%20FULL%20STACK-00ff99?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-ff00ff?style=for-the-badge&labelColor=0d1117" />
 
-DevOps Tools (AWS, Docker, Kubernetes, GitHub Actions)
+  <br/>
+  <br/>
 
-Linux System Administration
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=HarithaGeemal&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
 
-Software Architecture & Testing
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/HarithaGeemal) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harithageemal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harithageemal8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harithageemal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31902645) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:geemalharitha631@gmail.com) 
+<!-- ===================== CYBER PANEL: SYSTEM PROFILE ===================== -->
+<div style="border:1px solid #30363d; border-radius:18px; padding:22px; background:linear-gradient(135deg,#0d1117,#0b1220);">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarithaGeemal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarithaGeemal&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGeemal&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <h2 style="margin:0 0 10px; color:#00f7ff; font-family:Orbitron, sans-serif;">
+    🧠 SYSTEM PROFILE
+  </h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarithaGeemal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  <p style="margin:0 0 10px; color:#c9d1d9; line-height:1.75;">
+    👋 I'm a <b>second-year Software Engineering undergraduate at SLIIT</b>, passionate about designing and developing
+    <b>scalable, secure, and user-friendly software solutions</b>.
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <p style="margin:0 0 10px; color:#c9d1d9; line-height:1.75;">
+    🔧 I'm currently sharpening my skills in <b>Full-Stack Development</b> and <b>DevOps practices</b>, including
+    <b>AWS, Docker, Kubernetes,</b> and <b>Linux-based systems</b>. My focus is blending strong programming fundamentals
+    with <b>cloud-native technologies</b> to build reliable, modern applications.
+  </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HarithaGeemal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <p style="margin:0; color:#c9d1d9; line-height:1.75;">
+    💡 I believe in continuous learning, hands-on practice, and teamwork — from clean code to CI/CD pipelines
+    and agile collaboration.
+  </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=HarithaGeemal&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/harithag) 
+<br/>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ===================== TECH STACK: NEON MATRIX ===================== -->
+<div style="border:1px solid #30363d; border-radius:18px; padding:22px; background:#0d1117;">
+
+  <h2 style="margin:0 0 14px; color:#00ff99; font-family:Orbitron, sans-serif;">⚙ TECH MATRIX</h2>
+
+  <div>
+    <h3 style="margin:0 0 8px; color:#00f7ff;">Languages</h3>
+    <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=orange" />
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+    <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=white" />
+  </div>
+
+  <br/>
+
+  <div>
+    <h3 style="margin:0 0 8px; color:#00f7ff;">Full-Stack</h3>
+    <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A" />
+    <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ED64" />
+  </div>
+
+  <br/>
+
+  <div>
+    <h3 style="margin:0 0 8px; color:#00f7ff;">DevOps & Cloud</h3>
+    <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+    <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+    <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  </div>
+
+</div>
+
+<br/>
+
+<!-- ===================== ADVANCED STATS DASHBOARD ===================== -->
+<div align="center">
+
+  <h2 style="color:#ff00ff; font-family:Orbitron, sans-serif;">📊 PERFORMANCE DASHBOARD</h2>
+
+  <img height="175"
+       src="https://github-readme-stats.vercel.app/api?username=HarithaGeemal&show_icons=true&theme=github_dark&hide_border=true&icon_color=00f7ff&title_color=00f7ff&text_color=c9d1d9" />
+  <img height="175"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGeemal&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99&text_color=c9d1d9" />
+
+  <br/><br/>
+
+  <img height="190"
+       src="https://streak-stats.demolab.com?user=HarithaGeemal&theme=github-dark&hide_border=true&ring=00f7ff&fire=ff00ff&currStreakLabel=00ff99" />
+
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HarithaGeemal&theme=github-compact&hide_border=true&area=true"
+    alt="activity graph"
+  />
+
+</div>
+
+<br/>
+
+<!-- ===================== TROPHIES (ADVANCED) ===================== -->
+<div align="center" style="border:1px solid #30363d; border-radius:18px; padding:18px; background:#0b1220;">
+  <h2 style="margin:0 0 12px; color:#00f7ff; font-family:Orbitron, sans-serif;">🏆 ACHIEVEMENT CORE</h2>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=HarithaGeemal&theme=onestar&no-frame=true&row=1&column=7"
+    alt="trophies"
+  />
+</div>
+
+<br/>
+
+<!-- ===================== CURRENT MISSION (WITH PROGRESS BARS) ===================== -->
+<div style="border:1px solid #30363d; border-radius:18px; padding:22px; background:#0d1117;">
+
+  <h2 style="margin:0 0 14px; color:#00ff99; font-family:Orbitron, sans-serif;">🚀 CURRENT MISSION</h2>
+
+  <ul style="margin:0; padding-left:18px; color:#c9d1d9; line-height:1.9;">
+    <li><b>Full-Stack Web Development</b> (React, Node.js, Java)</li>
+    <li><b>DevOps Tools</b> (AWS, Docker, Kubernetes, GitHub Actions)</li>
+    <li><b>Linux System Administration</b></li>
+    <li><b>Software Architecture & Testing</b></li>
+  </ul>
+
+  <br/>
+
+  <div style="color:#c9d1d9; line-height:1.6;">
+    <div>⚡ Full-Stack Power</div>
+    <img src="https://progress-bar.dev/78/?title=LEVEL&width=520&color=00f7ff&suffix=%20" />
+    <br/>
+    <div>☁ Cloud / DevOps Mastery</div>
+    <img src="https://progress-bar.dev/65/?title=LEVEL&width=520&color=00ff99&suffix=%20" />
+    <br/>
+    <div>🧱 Architecture & Testing</div>
+    <img src="https://progress-bar.dev/55/?title=LEVEL&width=520&color=ff00ff&suffix=%20" />
+  </div>
+
+</div>
+
+<br/>
+
+<!-- ===================== SNAKE CONTRIBUTION ANIMATION =====================
+  IMPORTANT:
+  This image will work AFTER you set up the GitHub Action.
+  Steps are below (copy into your repo later).
+-->
+<div align="center">
+  <h2 style="color:#00f7ff; font-family:Orbitron, sans-serif;">🐍 CONTRIBUTION SNAKE</h2>
+
+  <!-- These URLs assume you create the snake workflow and output to the branch "output" -->
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HarithaGeemal/HarithaGeemal/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+<div align="center" style="border:1px solid #30363d; border-radius:18px; padding:18px; background:linear-gradient(135deg,#0d1117,#0b1220);">
+  <h2 style="margin:0 0 10px; color:#ff00ff; font-family:Orbitron, sans-serif;">🤝 CONNECT</h2>
+
+  <a href="https://www.linkedin.com/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:yourmail@example.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://your-portfolio-link.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <p style="margin:14px 0 0; color:#8b949e;">
+    ⚡ <b>“Code. Deploy. Scale. Repeat.”</b>
+  </p>
+</div>
+
+<hr style="border:0; height:1px; background:#30363d; margin:22px 0;" />
+
+<!-- ===================== SNAKE ACTION SETUP (COPY INTO YOUR REPO) =====================
+  1) Create folder: .github/workflows/
+  2) Create file: snake.yml
+  3) Paste the YAML below
+-->
+<details>
+  <summary style="color:#00ff99; cursor:pointer;"><b>✅ Enable the Snake Animation (click to expand)</b></summary>
