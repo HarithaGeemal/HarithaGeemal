@@ -162,16 +162,15 @@
 <br/>
 
 <!-- ===================== SNAKE CONTRIBUTION ANIMATION =====================-->
-<div align="center">
-
-<h2 style="color:#00ff00; font-family:Orbitron, sans-serif;">🧬 MATRIX RAIN CONTRIBUTION</h2>
+<div align="center" style="background:black; padding:20px; border-radius:15px;">
 
 <img 
   src="https://raw.githubusercontent.com/HarithaGeemal/HarithaGeemal/output/github-contribution-grid-snake-dark.svg" 
-  alt="matrix snake animation" 
+  style="filter: drop-shadow(0 0 10px #00ff00);" 
 />
 
 </div>
+
 
 
 <br/>
@@ -196,11 +195,4 @@
 </div>
 
 <hr style="border:0; height:1px; background:#30363d; margin:22px 0;" />
-
-<!-- ===================== SNAKE ACTION SETUP (COPY INTO YOUR REPO) =====================
-  1) Create folder: .github/workflows/
-  2) Create file: snake.yml
-  3) Paste the YAML below
--->
 <details>
-  <summary style="color:#00ff99; cursor:pointer;"><b>✅ Enable the Snake Animation (click to expand)</b></summary>
