@@ -99,10 +99,11 @@
 
   <h2 style="color:#ff00ff; font-family:Orbitron, sans-serif;">📊 PERFORMANCE DASHBOARD</h2>
 
-  <img height="175"
-       src="https://github-readme-stats.vercel.app/api?username=HarithaGeemal&show_icons=true&theme=github_dark&hide_border=true&icon_color=00f7ff&title_color=00f7ff&text_color=c9d1d9" />
-  <img height="175"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGeemal&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarithaGeemal&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGeemal&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+
+  
+
 
   <br/><br/>
 
@@ -124,10 +125,7 @@
 <!-- ===================== TROPHIES (ADVANCED) ===================== -->
 <div align="center" style="border:1px solid #30363d; border-radius:18px; padding:18px; background:#0b1220;">
   <h2 style="margin:0 0 12px; color:#00f7ff; font-family:Orbitron, sans-serif;">🏆 ACHIEVEMENT CORE</h2>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=HarithaGeemal&theme=onestar&no-frame=true&row=1&column=7"
-    alt="trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarithaGeemal&theme=matrix&no-frame=true&no-bg=true&row=1&column=7" />
 </div>
 
 <br/>
@@ -148,13 +146,13 @@
 
   <div style="color:#c9d1d9; line-height:1.6;">
     <div>⚡ Full-Stack Power</div>
-    <img src="https://progress-bar.dev/78/?title=LEVEL&width=520&color=00f7ff&suffix=%20" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Power-78%25-00f7ff?style=for-the-badge&labelColor=0d1117" />
     <br/>
     <div>☁ Cloud / DevOps Mastery</div>
-    <img src="https://progress-bar.dev/65/?title=LEVEL&width=520&color=00ff99&suffix=%20" />
+    <img src="https://img.shields.io/badge/Cloud%20%2F%20DevOps%20Mastery-65%25-00ff99?style=for-the-badge&labelColor=0d1117" />
     <br/>
     <div>🧱 Architecture & Testing</div>
-    <img src="https://progress-bar.dev/55/?title=LEVEL&width=520&color=ff00ff&suffix=%20" />
+    <img src="https://img.shields.io/badge/Architecture%20%26%20Testing-55%25-ff00ff?style=for-the-badge&labelColor=0d1117" />
   </div>
 
 </div>
@@ -164,10 +162,15 @@
 <!-- ===================== SNAKE CONTRIBUTION ANIMATION =====================-->
 <div align="center" style="background:black; padding:20px; border-radius:15px;">
 
-<img 
-  src="https://raw.githubusercontent.com/HarithaGeemal/HarithaGeemal/output/github-contribution-grid-snake-dark.svg" 
-  style="filter: drop-shadow(0 0 10px #00ff00);" 
-/>
+<a href="https://github.com/HarithaGeemal" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20Interactive%20Contribution%20Calendar-Click%20Here-00ff99?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+
+<img src="https://raw.githubusercontent.com/HarithaGeemal/HarithaGeemal/output/github-contribution-grid-snake-dark.svg" />
+
 
 </div>
 
