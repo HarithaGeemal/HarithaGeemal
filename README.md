@@ -1,7 +1,6 @@
 <!-- =========================================================
   ADVANCED FUTURISTIC GITHUB PROFILE README (HTML)
   User: HarithaGeemal | Name: Harithe Geemal
-  Paste into: README.md (Profile Repo: HarithaGeemal/HarithaGeemal)
 ========================================================= -->
 
 <div align="center">
@@ -162,17 +161,18 @@
 
 <br/>
 
-<!-- ===================== SNAKE CONTRIBUTION ANIMATION =====================
-  IMPORTANT:
-  This image will work AFTER you set up the GitHub Action.
-  Steps are below (copy into your repo later).
--->
+<!-- ===================== SNAKE CONTRIBUTION ANIMATION =====================-->
 <div align="center">
-  <h2 style="color:#00f7ff; font-family:Orbitron, sans-serif;">🐍 CONTRIBUTION SNAKE</h2>
 
-  <!-- These URLs assume you create the snake workflow and output to the branch "output" -->
-  <img alt="snake animation" src="https://raw.githubusercontent.com/HarithaGeemal/HarithaGeemal/output/github-contribution-grid-snake.svg" />
+<h2 style="color:#00ff00; font-family:Orbitron, sans-serif;">🧬 MATRIX RAIN CONTRIBUTION</h2>
+
+<img 
+  src="https://raw.githubusercontent.com/HarithaGeemal/HarithaGeemal/output/github-contribution-grid-snake-dark.svg" 
+  alt="matrix snake animation" 
+/>
+
 </div>
+
 
 <br/>
 
