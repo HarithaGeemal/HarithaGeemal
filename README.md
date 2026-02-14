@@ -98,13 +98,7 @@
 <div align="center">
 
   <h2 style="color:#ff00ff; font-family:Orbitron, sans-serif;">📊 PERFORMANCE DASHBOARD</h2>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGeemal&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-
-  
-
-
-  <br/><br/>
+  <br/>
 
   <img height="190"
        src="https://streak-stats.demolab.com?user=HarithaGeemal&theme=github-dark&hide_border=true&ring=00f7ff&fire=ff00ff&currStreakLabel=00ff99" />
