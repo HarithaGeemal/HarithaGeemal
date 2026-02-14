@@ -99,7 +99,6 @@
 
   <h2 style="color:#ff00ff; font-family:Orbitron, sans-serif;">📊 PERFORMANCE DASHBOARD</h2>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarithaGeemal&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarithaGeemal&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 
   
