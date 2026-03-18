@@ -172,10 +172,10 @@
 <div align="center" style="border:1px solid #30363d; border-radius:18px; padding:18px; background:linear-gradient(135deg,#0d1117,#0b1220);">
   <h2 style="margin:0 0 10px; color:#ff00ff; font-family:Orbitron, sans-serif;">🤝 CONNECT</h2>
 
-  <a href="https://www.linkedin.com/" style="text-decoration:none;">
+  <a href="www.linkedin.com/in/harithageemal" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="mailto:yourmail@example.com" style="text-decoration:none;">
+  <a href="mailto:geemalharitha631@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://your-portfolio-link.com" style="text-decoration:none;">
