@@ -7,7 +7,7 @@
 
   <!-- Neon / Cyber Typing Header -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&width=920&lines=Hi+%F0%9F%91%8B+I'm+Harithe+Geemal;Full-Stack+Developer+%7C+DevOps+Explorer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+Scalable%2C+Secure%2C+Modern+Apps;Engineering+the+future%2C+one+commit+at+a+time"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&width=920&lines=Hi+%F0%9F%91%8B+I'm+Haritha+Geemal;Full-Stack+Developer+%7C+DevOps+Explorer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Linux;Building+Scalable%2C+Secure%2C+Modern+Apps;Engineering+the+future%2C+one+commit+at+a+time"
     alt="Typing SVG"
   />
 
