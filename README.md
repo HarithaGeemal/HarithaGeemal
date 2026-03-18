@@ -1,6 +1,6 @@
 <!-- =========================================================
   ADVANCED FUTURISTIC GITHUB PROFILE README (HTML)
-  User: HarithaGeemal | Name: Harithe Geemal
+  User: HarithaGeemal | Name: Haritha Geemal
 ========================================================= -->
 
 <div align="center">
