@@ -1,46 +1,68 @@
+<!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Haritha%20Geemal%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Software%20&%20DevOps%20Engineer%20|%20Student%20at%20SLIIT&descAlignY=55&descAlign=50" />
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;DevOps+Enthusiast;Cloud+Native+Advocate;Student+at+SLIIT" alt="Typing SVG" />
+  </a>
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=harithageemal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
+
+<br/>
 
 ### 👨‍💻 About Me
-* 🎓 Studying at **SLIIT** (Sri Lanka Institute of Information Technology).
-* 🏗️ Passionate about building scalable software and robust infrastructure.
-* ☁️ Cloud-native enthusiast, automating everything from code to deployment.
-* 🚀 Currently working on optimizing CI/CD pipelines and microservices architecture.
-* 💡 Always exploring new tech: Kubernetes, Terraform, Rust, Go, and Python.
+<p align="center">
+  🎓 Studying at <b>SLIIT</b> (Sri Lanka Institute of Information Technology).<br>
+  🏗️ Passionate about building scalable software and robust infrastructure.<br>
+  ☁️ Cloud-native enthusiast, automating everything from code to deployment.<br>
+  🚀 Currently working on optimizing CI/CD pipelines and microservices.<br>
+  💡 Always exploring new tech: <b>Kubernetes, Terraform, Rust, Go</b>, and <b>Python</b>.
+</p>
+
+---
 
 ### 🛠️ Tech Stack & Tools
-
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-**DevOps & Cloud:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**CI/CD:**
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harithageemal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithageemal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <!-- Programming Languages -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,bash,rust,c,java,js,nodejs&perline=8" />
+  </a>
+  <br>
+  <br>
+  <!-- DevOps & Cloud Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,linux,githubactions,gitlab,jenkins&perline=8" />
+  </a>
 </div>
 
-### ⚡ Infrastructure as Code (IaC) & Automation
-> "Automate everything, document the rest."
-- 🐧 Proponent of GitOps methodology.
-- 🐳 Containerizing legacy applications for the modern web.
-- 🔒 Securing infrastructure through zero-trust architecture.
+---
+
+### 📊 GitHub Stats & Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harithageemal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=harithageemal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harithageemal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="195" />
+</div>
+
+---
 
 ### 📫 Connect with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harithageemal)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/YOUR_TWITTER)
-<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/harithageemal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Update your email here -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</div>
