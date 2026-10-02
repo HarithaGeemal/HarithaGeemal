@@ -39,27 +39,55 @@ const haritha = {
 
 <div align="center">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,java,js,bash,rust&theme=dark" alt="Languages" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br><b>Python</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br><b>JavaScript</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /><br><b>Docker</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" /><br><b>Kubernetes</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /><br><b>AWS</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /><br><b>GitHub</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" /><br><b>Nginx</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /><br><b>MySQL</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /><br><b>REST API</b>
+      </td>
+      <td align="center" width="140">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /><br><b>Java</b>
+      </td>
+    </tr>
+  </table>
 
-  <br><br>
+  <br>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,terraform,ansible&theme=dark" alt="Infrastructure" />
-  </a>
-
-  <br><br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,prometheus,grafana,nginx&theme=dark" alt="Automation" />
-  </a>
-
-  <br><br>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,mysql,mongodb,redis,kafka&theme=dark" alt="Tools" />
-  </a>
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
